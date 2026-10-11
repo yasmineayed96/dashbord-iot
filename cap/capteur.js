@@ -8,4 +8,4 @@ setInterval(async () => {
     body: JSON.stringify({ temperature }),
   });
   console.log("Envoyé :", temperature);
-}, 3001);
+},3001);
